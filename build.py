@@ -4,6 +4,7 @@ import argparse
 
 import fontmake.instantiator
 import fontTools.designspaceLib
+import generate
 import ufo2ft
 import ufoLib2
 import vttLib
@@ -124,6 +125,8 @@ if __name__ == "__main__":
     for instance_descriptor in designspace.instances:
 
         build_font_instance(generator, instance_descriptor)
+
+        generate.generate_missing_small_caps(INPUT_DIR, instance_descriptor)
 
         if not args.no_mono:
             build_font_instance(
