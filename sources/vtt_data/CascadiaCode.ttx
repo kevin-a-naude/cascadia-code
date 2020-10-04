@@ -40,6 +40,10 @@ IUP[X]
 
     </glyphProgram>
 
+    <glyphProgram name="A.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="AE">
 /* TT glyph 24, char 0xc6 */
 /* VTT 6.33 compiler Tue Dec  3 11:02:26 2019 */
@@ -62,6 +66,10 @@ IUP[X]
 
     </glyphProgram>
 
+    <glyphProgram name="AE.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="AEacute">
 /* VTTTalk Unicode 0x1fc */
 /* ACT generated Fri Nov 15 15:37:24 2019 */
@@ -73,6 +81,10 @@ SVTCA[Y]
 CALL[], 20, 1, 1, 1, 160, 86
 SHC[2], 2
 
+    </glyphProgram>
+
+    <glyphProgram name="AEacute.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Aacute">
@@ -89,6 +101,10 @@ SHC[2], 2
 
     </glyphProgram>
 
+    <glyphProgram name="Aacute.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Abreve">
 /* VTTTalk Unicode 0x102 */
 /* ACT generated Fri Nov 15 15:37:24 2019 */
@@ -100,6 +116,30 @@ SVTCA[Y]
 CALL[], 12, 1, 1, 1, 150, 86
 SHC[2], 2
 
+    </glyphProgram>
+
+    <glyphProgram name="Abreve.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Abreveacute.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Abrevedotbelow.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Abrevegrave.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Abrevehookabove.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Abrevetilde.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Acircumflex">
@@ -114,6 +154,34 @@ CALL[], 16, 1, 1, 1, 160, 86
 SHC[2], 2
 
 
+    </glyphProgram>
+
+    <glyphProgram name="Acircumflex.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Acircumflexacute.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Acircumflexdotbelow.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Acircumflexgrave.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Acircumflexhookabove.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Acircumflextilde.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Acy.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Adieresis">
@@ -131,6 +199,14 @@ SHC[2], 3
 
     </glyphProgram>
 
+    <glyphProgram name="Adieresis.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Adotbelow.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Agrave">
 /* VTTTalk Unicode 0xc0 */
 /* ACT generated Fri Nov 15 15:37:24 2019 */
@@ -145,6 +221,14 @@ SHC[2], 2
 
     </glyphProgram>
 
+    <glyphProgram name="Agrave.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Ahookabove.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Alpha">
 /* VTTTalk Unicode 0x391 */
 /* ACT generated Fri Nov 15 15:37:24 2019 */
@@ -152,6 +236,10 @@ SHC[2], 2
 USEMYMETRICS[]
 OFFSET[R], 1, 0, 0
 
+    </glyphProgram>
+
+    <glyphProgram name="Alpha.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Alphatonos">
@@ -177,6 +265,10 @@ IUP[X]
 
     </glyphProgram>
 
+    <glyphProgram name="Alphatonos.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Amacron">
 /* VTTTalk Unicode 0x100 */
 /* ACT generated Fri Nov 15 15:37:24 2019 */
@@ -188,6 +280,10 @@ SVTCA[Y]
 CALL[], 12, 1, 1, 1, 160, 86
 SHC[2], 2
 
+    </glyphProgram>
+
+    <glyphProgram name="Amacron.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Aogonek">
@@ -213,6 +309,10 @@ IUP[X]
 
     </glyphProgram>
 
+    <glyphProgram name="Aogonek.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Aring">
 /* VTTTalk Unicode 0xc5 */
 /* ACT generated Fri Nov 15 15:37:24 2019 */
@@ -225,6 +325,10 @@ CALL[], 12, 1, 1, 1, 68, 86
 SHC[2], 2
 SHC[2], 3
 
+    </glyphProgram>
+
+    <glyphProgram name="Aring.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Aringacute">
@@ -241,6 +345,10 @@ SHC[2], 0
 
     </glyphProgram>
 
+    <glyphProgram name="Aringacute.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Atilde">
 /* VTTTalk Unicode 0xc3 */
 /* ACT generated Fri Nov 15 15:37:24 2019 */
@@ -252,6 +360,10 @@ SVTCA[Y]
 CALL[], 12, 1, 1, 1, 146, 86
 SHC[2], 2
 
+    </glyphProgram>
+
+    <glyphProgram name="Atilde.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="B">
@@ -273,6 +385,14 @@ IUP[X]
 
     </glyphProgram>
 
+    <glyphProgram name="B.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Becy.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Beta">
 /* VTTTalk Unicode 0x392 */
 /* ACT generated Fri Nov 15 15:37:24 2019 */
@@ -281,6 +401,10 @@ USEMYMETRICS[]
 OFFSET[R], 26, 0, 0
 
 
+    </glyphProgram>
+
+    <glyphProgram name="Beta.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="C">
@@ -297,6 +421,10 @@ IUP[Y]
 IUP[X]
 
 
+    </glyphProgram>
+
+    <glyphProgram name="C.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="CR">
@@ -331,6 +459,14 @@ SHC[2], 1
 
     </glyphProgram>
 
+    <glyphProgram name="Cacute.loclPLK.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Cacute.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Ccaron">
 /* VTTTalk Unicode 0x10c */
 /* ACT generated Mon Nov 18 21:54:11 2019 */
@@ -341,6 +477,10 @@ OFFSET[R], 1531, 105, 0
 SVTCA[Y]
 CALL[], 22, 5, 1, 1, 140, 86
 SHC[2], 1
+    </glyphProgram>
+
+    <glyphProgram name="Ccaron.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Ccedilla">
@@ -355,6 +495,10 @@ CALL[], 28, 0, 0, 0, 69, 86
 SHC[2], 1
     </glyphProgram>
 
+    <glyphProgram name="Ccedilla.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Ccircumflex">
 /* VTTTalk Unicode 0x108 */
 /* ACT generated Mon Nov 18 21:54:11 2019 */
@@ -365,6 +509,10 @@ OFFSET[R], 1530, 105, 0
 SVTCA[Y]
 CALL[], 26, 5, 1, 1, 140, 86
 SHC[2], 1
+    </glyphProgram>
+
+    <glyphProgram name="Ccircumflex.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Cdotaccent">
@@ -379,6 +527,14 @@ CALL[], 22, 5, 1, 1, 140, 86
 SHC[2], 1
     </glyphProgram>
 
+    <glyphProgram name="Cdotaccent.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Checy.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Chi">
 /* VTTTalk Unicode 0x3a7 */
 /* ACT generated Fri Nov 15 15:37:24 2019 */
@@ -386,6 +542,10 @@ SHC[2], 1
 USEMYMETRICS[]
 OFFSET[R], 167, 0, 0
 
+    </glyphProgram>
+
+    <glyphProgram name="Chi.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="D">
@@ -402,6 +562,10 @@ IUP[X]
 
     </glyphProgram>
 
+    <glyphProgram name="D.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Dcaron">
 /* VTTTalk Unicode 0x10e */
 /* ACT generated Fri Nov 15 15:37:24 2019 */
@@ -416,6 +580,10 @@ SHC[2], 2
 
     </glyphProgram>
 
+    <glyphProgram name="Dcaron.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Dcroat">
 /* VTTTalk Unicode 0x110 */
 /* ACT generated Fri Nov 15 15:37:24 2019 */
@@ -424,6 +592,34 @@ USEMYMETRICS[]
 OFFSET[R], 34, 0, 0
 
 
+    </glyphProgram>
+
+    <glyphProgram name="Dcroat.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Decy.loclBGR.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Decy.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Delta.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Djecy.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Dzecy.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Dzhecy.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="E">
@@ -443,6 +639,10 @@ IUP[X]
 
     </glyphProgram>
 
+    <glyphProgram name="E.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Eacute">
 /* VTTTalk Unicode 0xc9 */
 /* ACT generated Fri Nov 15 15:37:24 2019 */
@@ -455,6 +655,10 @@ CALL[], 12, 1, 1, 1, 160, 86
 SHC[2], 1
 
 
+    </glyphProgram>
+
+    <glyphProgram name="Eacute.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Ebreve">
@@ -470,6 +674,10 @@ SHC[2], 1
 
     </glyphProgram>
 
+    <glyphProgram name="Ebreve.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Ecaron">
 /* VTTTalk Unicode 0x11a */
 /* ACT generated Fri Nov 15 15:37:24 2019 */
@@ -481,6 +689,10 @@ SVTCA[Y]
 CALL[], 12, 1, 1, 1, 160, 86
 SHC[2], 1
 
+    </glyphProgram>
+
+    <glyphProgram name="Ecaron.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Ecircumflex">
@@ -495,6 +707,34 @@ CALL[], 16, 1, 1, 1, 160, 86
 SHC[2], 1
 
 
+    </glyphProgram>
+
+    <glyphProgram name="Ecircumflex.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Ecircumflexacute.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Ecircumflexdotbelow.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Ecircumflexgrave.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Ecircumflexhookabove.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Ecircumflextilde.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Ecy.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Edieresis">
@@ -512,6 +752,10 @@ SHC[2], 2
 
     </glyphProgram>
 
+    <glyphProgram name="Edieresis.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Edotaccent">
 /* VTTTalk Unicode 0x116 */
 /* ACT generated Fri Nov 15 15:37:24 2019 */
@@ -523,6 +767,22 @@ SVTCA[Y]
 CALL[], 12, 1, 1, 1, 160, 86
 SHC[2], 1
 
+    </glyphProgram>
+
+    <glyphProgram name="Edotaccent.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Edotbelow.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Efcy.loclBGR.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Efcy.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Egrave">
@@ -539,6 +799,22 @@ SHC[2], 1
 
     </glyphProgram>
 
+    <glyphProgram name="Egrave.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Ehookabove.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Elcy.loclBGR.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Elcy.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Emacron">
 /* VTTTalk Unicode 0x112 */
 /* ACT generated Fri Nov 15 15:37:24 2019 */
@@ -550,6 +826,18 @@ SVTCA[Y]
 CALL[], 12, 1, 1, 1, 160, 86
 SHC[2], 1
 
+    </glyphProgram>
+
+    <glyphProgram name="Emacron.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Emcy.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Ency.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Eng">
@@ -569,6 +857,10 @@ IUP[Y]
 IUP[X]
 
 
+    </glyphProgram>
+
+    <glyphProgram name="Eng.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Eogonek">
@@ -593,6 +885,10 @@ IUP[X]
 
     </glyphProgram>
 
+    <glyphProgram name="Eogonek.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Epsilon">
 /* VTTTalk Unicode 0x395 */
 /* ACT generated Fri Nov 15 15:37:24 2019 */
@@ -601,6 +897,10 @@ USEMYMETRICS[]
 OFFSET[R], 37, 0, 0
 
 
+    </glyphProgram>
+
+    <glyphProgram name="Epsilon.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Epsilontonos">
@@ -623,6 +923,22 @@ IUP[X]
 
     </glyphProgram>
 
+    <glyphProgram name="Epsilontonos.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Ercy.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Ereversedcy.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Escy.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Eta">
 /* VTTTalk Unicode 0x397 */
 /* ACT generated Fri Nov 15 15:37:24 2019 */
@@ -631,6 +947,10 @@ USEMYMETRICS[]
 OFFSET[R], 62, 0, 0
 
 
+    </glyphProgram>
+
+    <glyphProgram name="Eta.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Etatonos">
@@ -655,6 +975,10 @@ IUP[X]
 
     </glyphProgram>
 
+    <glyphProgram name="Etatonos.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Eth">
 /* TT glyph 34, char 0xd0 */
 /* VTT 6.33 compiler Tue Dec  3 11:02:26 2019 */
@@ -672,6 +996,14 @@ SHP[2], 2
 IUP[Y]
 IUP[X]
 
+    </glyphProgram>
+
+    <glyphProgram name="Eth.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Etilde.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Euro">
@@ -720,6 +1052,10 @@ IUP[X]
 
     </glyphProgram>
 
+    <glyphProgram name="F.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="G">
 /* TT glyph 56, char 0x47 (G) */
 /* VTT 6.33 compiler Tue Dec  3 11:02:26 2019 */
@@ -739,6 +1075,10 @@ IUP[X]
 
     </glyphProgram>
 
+    <glyphProgram name="G.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Gamma">
 /* VTTTalk Unicode 0x393 */
 /* ACT generated Fri Nov 15 15:37:24 2019 */
@@ -746,6 +1086,10 @@ IUP[X]
 USEMYMETRICS[]
 OFFSET[R], 389, 0, 0
 
+    </glyphProgram>
+
+    <glyphProgram name="Gamma.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Gbreve">
@@ -761,6 +1105,10 @@ SHC[2], 1
 
     </glyphProgram>
 
+    <glyphProgram name="Gbreve.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Gcaron">
 /* VTTTalk Unicode 0x1e6 */
 /* ACT generated Mon Nov 18 21:54:11 2019 */
@@ -772,6 +1120,10 @@ SVTCA[Y]
 CALL[], 28, 5, 1, 1, 140, 86
 SHC[2], 1
 
+    </glyphProgram>
+
+    <glyphProgram name="Gcaron.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Gcircumflex">
@@ -787,6 +1139,14 @@ SHC[2], 1
 
     </glyphProgram>
 
+    <glyphProgram name="Gcircumflex.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Gcommaaccent.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Gdotaccent">
 /* VTTTalk Unicode 0x120 */
 /* ACT generated Mon Nov 18 21:54:11 2019 */
@@ -798,6 +1158,26 @@ SVTCA[Y]
 CALL[], 28, 5, 1, 1, 140, 86
 SHC[2], 1
 
+    </glyphProgram>
+
+    <glyphProgram name="Gdotaccent.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Gecy.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Germandbls.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Gheupturncy.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Gjecy.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="H">
@@ -816,6 +1196,18 @@ IUP[Y]
 IUP[X]
 
 
+    </glyphProgram>
+
+    <glyphProgram name="H.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Hacy.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Hardsigncy.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Hbar">
@@ -841,6 +1233,10 @@ IUP[X]
 
     </glyphProgram>
 
+    <glyphProgram name="Hbar.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Hcircumflex">
 /* VTTTalk Unicode 0x124 */
 /* ACT generated Fri Nov 15 15:37:24 2019 */
@@ -853,6 +1249,10 @@ CALL[], 16, 5, 1, 1, 160, 86
 SHC[2], 1
 
 
+    </glyphProgram>
+
+    <glyphProgram name="Hcircumflex.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="I">
@@ -869,6 +1269,10 @@ IUP[Y]
 IUP[X]
 
 
+    </glyphProgram>
+
+    <glyphProgram name="I.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="IJ">
@@ -893,6 +1297,14 @@ IUP[X]
 
     </glyphProgram>
 
+    <glyphProgram name="IJ.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="IJ.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Iacute">
 /* VTTTalk Unicode 0xcd */
 /* ACT generated Fri Nov 15 15:37:24 2019 */
@@ -904,6 +1316,10 @@ SVTCA[Y]
 CALL[], 12, 5, 1, 1, 160, 86
 SHC[2], 1
 
+    </glyphProgram>
+
+    <glyphProgram name="Iacute.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Iacute_J.loclNLD">
@@ -922,6 +1338,14 @@ SHC[2], 3
 
     </glyphProgram>
 
+    <glyphProgram name="Iacute_J.loclNLD.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Iacy.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Ibreve">
 /* VTTTalk Unicode 0x12c */
 /* ACT generated Mon Nov 18 21:54:11 2019 */
@@ -932,6 +1356,10 @@ OFFSET[R], 1532, 0, 0
 SVTCA[Y]
 CALL[], 12, 5, 1, 1, 150, 86
 SHC[2], 1
+    </glyphProgram>
+
+    <glyphProgram name="Ibreve.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Icircumflex">
@@ -945,6 +1373,14 @@ SVTCA[Y]
 CALL[], 16, 5, 1, 1, 160, 86
 SHC[2], 1
 
+    </glyphProgram>
+
+    <glyphProgram name="Icircumflex.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Icy.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Idieresis">
@@ -961,6 +1397,10 @@ SHC[2], 2
 
     </glyphProgram>
 
+    <glyphProgram name="Idieresis.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Idotaccent">
 /* VTTTalk Unicode 0x130 */
 /* ACT generated Fri Nov 15 15:37:24 2019 */
@@ -973,6 +1413,22 @@ CALL[], 12, 5, 1, 1, 160, 86
 SHC[2], 1
 
 
+    </glyphProgram>
+
+    <glyphProgram name="Idotaccent.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Idotbelow.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Iecy.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Iegravecy.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Igrave">
@@ -988,6 +1444,26 @@ SHC[2], 1
 
     </glyphProgram>
 
+    <glyphProgram name="Igrave.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Ihookabove.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Iicy.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Iigravecy.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Iishortcy.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Imacron">
 /* VTTTalk Unicode 0x12a */
 /* ACT generated Fri Nov 15 15:37:24 2019 */
@@ -1000,6 +1476,14 @@ CALL[], 12, 5, 1, 1, 160, 86
 SHC[2], 1
 
 
+    </glyphProgram>
+
+    <glyphProgram name="Imacron.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Iocy.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Iogonek">
@@ -1022,6 +1506,10 @@ IUP[X]
 
     </glyphProgram>
 
+    <glyphProgram name="Iogonek.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Iota">
 /* VTTTalk Unicode 0x399 */
 /* ACT generated Fri Nov 15 15:37:24 2019 */
@@ -1030,6 +1518,10 @@ USEMYMETRICS[]
 OFFSET[R], 65, 0, 0
 
 
+    </glyphProgram>
+
+    <glyphProgram name="Iota.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Iotadieresis">
@@ -1044,6 +1536,10 @@ CALL[], 12, 5, 1, 1, 160, 86
 SHC[2], 1
 SHC[2], 2
 
+    </glyphProgram>
+
+    <glyphProgram name="Iotadieresis.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Iotatonos">
@@ -1063,6 +1559,10 @@ IUP[X]
 
     </glyphProgram>
 
+    <glyphProgram name="Iotatonos.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Itilde">
 /* VTTTalk Unicode 0x128 */
 /* ACT generated Fri Nov 15 15:37:24 2019 */
@@ -1074,6 +1574,14 @@ SVTCA[Y]
 CALL[], 12, 5, 1, 1, 146, 86
 SHC[2], 1
 
+    </glyphProgram>
+
+    <glyphProgram name="Itilde.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Iucy.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="J">
@@ -1093,6 +1601,10 @@ IUP[X]
 
     </glyphProgram>
 
+    <glyphProgram name="J.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Jcircumflex">
 /* VTTTalk Unicode 0x134 */
 /* ACT generated Mon Nov 18 21:54:11 2019 */
@@ -1104,6 +1616,14 @@ SVTCA[Y]
 CALL[], 22, 13, 1, 1, 160, 86
 SHC[2], 1
 
+    </glyphProgram>
+
+    <glyphProgram name="Jcircumflex.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Jecy.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="K">
@@ -1125,6 +1645,18 @@ IUP[X]
 
     </glyphProgram>
 
+    <glyphProgram name="K.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Kacy.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="KaiSymbol.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Kappa">
 /* VTTTalk Unicode 0x39a */
 /* ACT generated Fri Nov 15 15:37:24 2019 */
@@ -1133,6 +1665,18 @@ USEMYMETRICS[]
 OFFSET[R], 80, 0, 0
 
 
+    </glyphProgram>
+
+    <glyphProgram name="Kappa.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Kcommaaccent.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Kjecy.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="L">
@@ -1146,6 +1690,10 @@ IUP[Y]
 IUP[X]
 
 
+    </glyphProgram>
+
+    <glyphProgram name="L.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="LIG">
@@ -1168,6 +1716,10 @@ SHC[2], 1
 
     </glyphProgram>
 
+    <glyphProgram name="Lacute.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Lambda">
 /* VTTTalk Unicode 0x39b */
 /* ACT generated Fri Nov 15 15:37:24 2019 */
@@ -1175,6 +1727,10 @@ SHC[2], 1
 USEMYMETRICS[]
 OFFSET[R], 450, 0, 0
 
+    </glyphProgram>
+
+    <glyphProgram name="Lambda.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Lcaron">
@@ -1194,6 +1750,14 @@ IUP[X]
 
     </glyphProgram>
 
+    <glyphProgram name="Lcaron.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Lcommaaccent.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Ldot">
 /* VTTTalk Unicode 0x13f */
 /* ACT generated Fri Nov 15 15:37:24 2019 */
@@ -1204,6 +1768,14 @@ OFFSET[R], 673, 150, 370
 SVTCA[Y]
 CALL[], 12, 1, 2, 0, -192, 86
 SHC[2], 1
+    </glyphProgram>
+
+    <glyphProgram name="Ldot.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Ljecy.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Lslash">
@@ -1226,6 +1798,10 @@ IUP[X]
 
     </glyphProgram>
 
+    <glyphProgram name="Lslash.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="M">
 /* TT glyph 88, char 0x4d (M) */
 /* VTT 6.33 compiler Tue Dec  3 11:02:26 2019 */
@@ -1244,6 +1820,10 @@ IUP[X]
 
     </glyphProgram>
 
+    <glyphProgram name="M.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Mu">
 /* VTTTalk Unicode 0x39c */
 /* ACT generated Fri Nov 15 15:37:24 2019 */
@@ -1252,6 +1832,10 @@ USEMYMETRICS[]
 OFFSET[R], 88, 0, 0
 
 
+    </glyphProgram>
+
+    <glyphProgram name="Mu.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="N">
@@ -1269,6 +1853,10 @@ IUP[Y]
 IUP[X]
 
 
+    </glyphProgram>
+
+    <glyphProgram name="N.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Nacute">
@@ -1298,6 +1886,14 @@ SHC[2], 1
 
     </glyphProgram>
 
+    <glyphProgram name="Nacute.loclPLK.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Nacute.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Ncaron">
 /* VTTTalk Unicode 0x147 */
 /* ACT generated Fri Nov 15 15:37:24 2019 */
@@ -1310,6 +1906,22 @@ CALL[], 12, 5, 1, 1, 160, 86
 SHC[2], 1
 
 
+    </glyphProgram>
+
+    <glyphProgram name="Ncaron.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Ncommaaccent.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Nhookleft.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Njecy.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Ntilde">
@@ -1326,6 +1938,10 @@ SHC[2], 1
 
     </glyphProgram>
 
+    <glyphProgram name="Ntilde.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Nu">
 /* VTTTalk Unicode 0x39d */
 /* ACT generated Fri Nov 15 15:37:24 2019 */
@@ -1334,6 +1950,10 @@ USEMYMETRICS[]
 OFFSET[R], 89, 0, 0
 
 
+    </glyphProgram>
+
+    <glyphProgram name="Nu.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="O">
@@ -1347,6 +1967,10 @@ CALL[], 0, 8, 106
 IUP[Y]
 IUP[X]
 
+    </glyphProgram>
+
+    <glyphProgram name="O.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="OE">
@@ -1370,6 +1994,10 @@ SHP[2], 25
 IUP[Y]
 IUP[X]
 
+    </glyphProgram>
+
+    <glyphProgram name="OE.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Oacute">
@@ -1398,6 +2026,14 @@ SHC[2], 2
 
     </glyphProgram>
 
+    <glyphProgram name="Oacute.loclPLK.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Oacute.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Obreve">
 /* VTTTalk Unicode 0x14e */
 /* ACT generated Mon Nov 18 21:54:11 2019 */
@@ -1408,6 +2044,10 @@ OFFSET[R], 1532, 0, 0
 SVTCA[Y]
 CALL[], 16, 4, 1, 1, 130, 86
 SHC[2], 2
+    </glyphProgram>
+
+    <glyphProgram name="Obreve.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Ocircumflex">
@@ -1421,6 +2061,34 @@ SVTCA[Y]
 CALL[], 20, 4, 1, 1, 140, 86
 SHC[2], 2
 
+    </glyphProgram>
+
+    <glyphProgram name="Ocircumflex.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Ocircumflexacute.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Ocircumflexdotbelow.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Ocircumflexgrave.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Ocircumflexhookabove.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Ocircumflextilde.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Ocy.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Odieresis">
@@ -1437,6 +2105,14 @@ SHC[2], 3
 
     </glyphProgram>
 
+    <glyphProgram name="Odieresis.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Odotbelow.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Ograve">
 /* VTTTalk Unicode 0xd2 */
 /* ACT generated Fri Nov 15 15:37:24 2019 */
@@ -1448,6 +2124,14 @@ SVTCA[Y]
 CALL[], 16, 4, 1, 1, 140, 86
 SHC[2], 2
 
+    </glyphProgram>
+
+    <glyphProgram name="Ograve.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Ohookabove.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Ohorn">
@@ -1462,6 +2146,30 @@ CALL[], 20, 4, 0, 0, 213, 86
 SHC[2], 2
 
 
+    </glyphProgram>
+
+    <glyphProgram name="Ohorn.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Ohornacute.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Ohorndotbelow.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Ohorngrave.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Ohornhookabove.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Ohorntilde.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Ohungarumlaut">
@@ -1479,6 +2187,10 @@ SHC[2], 3
 
     </glyphProgram>
 
+    <glyphProgram name="Ohungarumlaut.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Omacron">
 /* VTTTalk Unicode 0x14c */
 /* ACT generated Fri Nov 15 15:37:24 2019 */
@@ -1491,6 +2203,14 @@ CALL[], 16, 4, 1, 1, 140, 86
 SHC[2], 2
 
 
+    </glyphProgram>
+
+    <glyphProgram name="Omacron.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Omega.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Omegatonos">
@@ -1517,6 +2237,10 @@ IUP[X]
 
     </glyphProgram>
 
+    <glyphProgram name="Omegatonos.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Omicron">
 /* VTTTalk Unicode 0x39f */
 /* ACT generated Fri Nov 15 15:37:24 2019 */
@@ -1525,6 +2249,10 @@ USEMYMETRICS[]
 OFFSET[R], 96, 0, 0
 
 
+    </glyphProgram>
+
+    <glyphProgram name="Omicron.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Omicrontonos">
@@ -1540,6 +2268,14 @@ CALL[], 9, 11, 106
 IUP[Y]
 IUP[X]
 
+    </glyphProgram>
+
+    <glyphProgram name="Omicrontonos.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Oogonek.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Oslash">
@@ -1565,6 +2301,10 @@ IUP[X]
 
     </glyphProgram>
 
+    <glyphProgram name="Oslash.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Oslashacute">
 /* VTTTalk Unicode 0x1fe */
 /* ACT generated Fri Nov 15 15:37:24 2019 */
@@ -1580,6 +2320,10 @@ SHC[2], 3
 
     </glyphProgram>
 
+    <glyphProgram name="Oslashacute.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Otilde">
 /* VTTTalk Unicode 0xd5 */
 /* ACT generated Fri Nov 15 15:37:24 2019 */
@@ -1592,6 +2336,10 @@ CALL[], 16, 4, 1, 1, 126, 86
 SHC[2], 2
 
 
+    </glyphProgram>
+
+    <glyphProgram name="Otilde.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="P">
@@ -1611,6 +2359,14 @@ IUP[X]
 
     </glyphProgram>
 
+    <glyphProgram name="P.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Pecy.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Phi">
 /* VTTTalk Unicode 0x3a6 */
 /* ACT generated Fri Nov 15 15:37:24 2019 */
@@ -1620,6 +2376,10 @@ OFFSET[R], 413, 0, 0
 
     </glyphProgram>
 
+    <glyphProgram name="Phi.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Pi">
 /* VTTTalk Unicode 0x3a0 */
 /* ACT generated Fri Nov 15 15:37:24 2019 */
@@ -1627,6 +2387,10 @@ OFFSET[R], 413, 0, 0
 USEMYMETRICS[]
 OFFSET[R], 407, 0, 0
 
+    </glyphProgram>
+
+    <glyphProgram name="Pi.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Psi">
@@ -1650,6 +2414,10 @@ IUP[X]
 
     </glyphProgram>
 
+    <glyphProgram name="Psi.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Q">
 /* TT glyph 124, char 0x51 (Q) */
 /* VTT 6.33 compiler Tue Dec  3 11:02:26 2019 */
@@ -1665,6 +2433,10 @@ IUP[Y]
 IUP[X]
 
 
+    </glyphProgram>
+
+    <glyphProgram name="Q.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="R">
@@ -1686,6 +2458,10 @@ IUP[X]
 
     </glyphProgram>
 
+    <glyphProgram name="R.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Racute">
 /* VTTTalk Unicode 0x154 */
 /* ACT generated Fri Nov 15 15:37:24 2019 */
@@ -1697,6 +2473,10 @@ SVTCA[Y]
 CALL[], 25, 1, 1, 1, 160, 86
 SHC[2], 2
 
+    </glyphProgram>
+
+    <glyphProgram name="Racute.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Rcaron">
@@ -1712,6 +2492,14 @@ SHC[2], 2
 
     </glyphProgram>
 
+    <glyphProgram name="Rcaron.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Rcommaaccent.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Rho">
 /* VTTTalk Unicode 0x3a1 */
 /* ACT generated Fri Nov 15 15:37:24 2019 */
@@ -1719,6 +2507,10 @@ SHC[2], 2
 USEMYMETRICS[]
 OFFSET[R], 122, 0, 0
 
+    </glyphProgram>
+
+    <glyphProgram name="Rho.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="S">
@@ -1737,6 +2529,10 @@ SHP[2], 21
 IUP[Y]
 IUP[X]
 
+    </glyphProgram>
+
+    <glyphProgram name="S.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Sacute">
@@ -1764,6 +2560,14 @@ SHC[2], 1
 
     </glyphProgram>
 
+    <glyphProgram name="Sacute.loclPLK.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Sacute.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Scaron">
 /* VTTTalk Unicode 0x160 */
 /* ACT generated Mon Nov 18 21:54:11 2019 */
@@ -1774,6 +2578,10 @@ OFFSET[R], 1531, 0, 0
 SVTCA[Y]
 CALL[], 36, 17, 1, 1, 140, 86
 SHC[2], 1
+    </glyphProgram>
+
+    <glyphProgram name="Scaron.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Scedilla">
@@ -1788,6 +2596,14 @@ CALL[], 42, 0, 0, 0, 69, 86
 SHC[2], 1
     </glyphProgram>
 
+    <glyphProgram name="Scedilla.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Schwa.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Scircumflex">
 /* VTTTalk Unicode 0x15c */
 /* ACT generated Mon Nov 18 21:54:11 2019 */
@@ -1798,6 +2614,22 @@ OFFSET[R], 1530, 0, 0
 SVTCA[Y]
 CALL[], 40, 17, 1, 1, 140, 86
 SHC[2], 1
+    </glyphProgram>
+
+    <glyphProgram name="Scircumflex.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Scommaaccent.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Shacy.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Shchacy.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Sigma">
@@ -1819,6 +2651,14 @@ IUP[X]
 
     </glyphProgram>
 
+    <glyphProgram name="Sigma.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Softsigncy.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="T">
 /* TT glyph 137, char 0x54 (T) */
 /* VTT 6.33 compiler Tue Dec  3 11:02:26 2019 */
@@ -1832,6 +2672,10 @@ IUP[X]
 
     </glyphProgram>
 
+    <glyphProgram name="T.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Tau">
 /* VTTTalk Unicode 0x3a4 */
 /* ACT generated Fri Nov 15 15:37:24 2019 */
@@ -1839,6 +2683,10 @@ IUP[X]
 USEMYMETRICS[]
 OFFSET[R], 137, 0, 0
 
+    </glyphProgram>
+
+    <glyphProgram name="Tau.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Tbar">
@@ -1861,6 +2709,10 @@ IUP[X]
 
     </glyphProgram>
 
+    <glyphProgram name="Tbar.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Tcaron">
 /* VTTTalk Unicode 0x164 */
 /* ACT generated Fri Nov 15 15:37:24 2019 */
@@ -1871,6 +2723,22 @@ OFFSET[R], 1531, 0, 0
 SVTCA[Y]
 CALL[], 8, 3, 1, 1, 160, 86
 SHC[2], 1
+    </glyphProgram>
+
+    <glyphProgram name="Tcaron.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Tcedilla.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Tcommaaccent.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Tecy.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Theta">
@@ -1889,6 +2757,10 @@ IUP[Y]
 IUP[X]
 
 
+    </glyphProgram>
+
+    <glyphProgram name="Theta.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Thorn">
@@ -1910,6 +2782,18 @@ IUP[X]
 
     </glyphProgram>
 
+    <glyphProgram name="Thorn.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Tsecy.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Tshecy.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="U">
 /* TT glyph 142, char 0x55 (U) */
 /* VTT 6.33 compiler Tue Dec  3 11:02:26 2019 */
@@ -1924,6 +2808,10 @@ IUP[X]
 
     </glyphProgram>
 
+    <glyphProgram name="U.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Uacute">
 /* VTTTalk Unicode 0xda */
 /* ACT generated Mon Nov 18 21:54:11 2019 */
@@ -1934,6 +2822,10 @@ OFFSET[R], 1528, 0, 0
 SVTCA[Y]
 CALL[], 16, 3, 1, 1, 160, 86
 SHC[2], 1
+    </glyphProgram>
+
+    <glyphProgram name="Uacute.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Ubreve">
@@ -1948,6 +2840,10 @@ CALL[], 16, 11, 1, 1, 150, 86
 SHC[2], 1
     </glyphProgram>
 
+    <glyphProgram name="Ubreve.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Ucircumflex">
 /* VTTTalk Unicode 0xdb */
 /* ACT generated Mon Nov 18 21:54:11 2019 */
@@ -1959,6 +2855,14 @@ SVTCA[Y]
 CALL[], 20, 11, 1, 1, 160, 86
 SHC[2], 1
 
+    </glyphProgram>
+
+    <glyphProgram name="Ucircumflex.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Ucy.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Udieresis">
@@ -1975,6 +2879,14 @@ SHC[2], 2
 
     </glyphProgram>
 
+    <glyphProgram name="Udieresis.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Udotbelow.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Ugrave">
 /* VTTTalk Unicode 0xd9 */
 /* ACT generated Mon Nov 18 21:54:11 2019 */
@@ -1985,6 +2897,14 @@ OFFSET[R], 1527, 0, 0
 SVTCA[Y]
 CALL[], 16, 3, 1, 1, 160, 86
 SHC[2], 1
+    </glyphProgram>
+
+    <glyphProgram name="Ugrave.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Uhookabove.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Uhorn">
@@ -2002,6 +2922,30 @@ IUP[X]
 
     </glyphProgram>
 
+    <glyphProgram name="Uhorn.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Uhornacute.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Uhorndotbelow.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Uhorngrave.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Uhornhookabove.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Uhorntilde.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Uhungarumlaut">
 /* VTTTalk Unicode 0x170 */
 /* ACT generated Mon Nov 18 21:54:11 2019 */
@@ -2015,6 +2959,10 @@ SHC[2], 1
 SHC[2], 2
     </glyphProgram>
 
+    <glyphProgram name="Uhungarumlaut.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Umacron">
 /* VTTTalk Unicode 0x16a */
 /* ACT generated Mon Nov 18 21:54:11 2019 */
@@ -2026,6 +2974,10 @@ SVTCA[Y]
 CALL[], 16, 3, 1, 1, 160, 86
 SHC[2], 1
 
+    </glyphProgram>
+
+    <glyphProgram name="Umacron.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Uogonek">
@@ -2044,6 +2996,10 @@ IUP[X]
 
     </glyphProgram>
 
+    <glyphProgram name="Uogonek.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Upsilon">
 /* VTTTalk Unicode 0x3a5 */
 /* ACT generated Fri Nov 15 15:37:24 2019 */
@@ -2051,6 +3007,10 @@ IUP[X]
 USEMYMETRICS[]
 OFFSET[R], 168, 0, 0
 
+    </glyphProgram>
+
+    <glyphProgram name="Upsilon.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Upsilondieresis">
@@ -2065,6 +3025,10 @@ CALL[], 10, 6, 1, 1, 160, 86
 SHC[2], 1
 SHC[2], 2
 
+    </glyphProgram>
+
+    <glyphProgram name="Upsilondieresis.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Upsilontonos">
@@ -2086,6 +3050,10 @@ IUP[X]
 
     </glyphProgram>
 
+    <glyphProgram name="Upsilontonos.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Uring">
 /* VTTTalk Unicode 0x16e */
 /* ACT generated Mon Nov 18 21:54:11 2019 */
@@ -2100,6 +3068,14 @@ SHC[2], 2
 
     </glyphProgram>
 
+    <glyphProgram name="Uring.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Ushortcy.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Utilde">
 /* VTTTalk Unicode 0x168 */
 /* ACT generated Mon Nov 18 21:54:11 2019 */
@@ -2110,6 +3086,10 @@ OFFSET[R], 1534, 10, 0
 SVTCA[Y]
 CALL[], 16, 3, 1, 1, 146, 86
 SHC[2], 1
+    </glyphProgram>
+
+    <glyphProgram name="Utilde.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="V">
@@ -2124,6 +3104,14 @@ IP[], 4
 IUP[Y]
 IUP[X]
 
+    </glyphProgram>
+
+    <glyphProgram name="V.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Vecy.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="W">
@@ -2144,6 +3132,10 @@ IUP[X]
 
     </glyphProgram>
 
+    <glyphProgram name="W.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Wacute">
 /* VTTTalk Unicode 0x1e82 */
 /* ACT generated Fri Nov 15 15:37:24 2019 */
@@ -2154,6 +3146,10 @@ OFFSET[R], 1528, 0, 0
 SVTCA[Y]
 CALL[], 16, 1, 1, 1, 160, 86
 SHC[2], 1
+    </glyphProgram>
+
+    <glyphProgram name="Wacute.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Wcircumflex">
@@ -2171,6 +3167,10 @@ SHC[2], 1
 
     </glyphProgram>
 
+    <glyphProgram name="Wcircumflex.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Wdieresis">
 /* VTTTalk Unicode 0x1e84 */
 /* ACT generated Fri Nov 15 15:37:24 2019 */
@@ -2186,6 +3186,10 @@ SHC[2], 2
 
     </glyphProgram>
 
+    <glyphProgram name="Wdieresis.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Wgrave">
 /* VTTTalk Unicode 0x1e80 */
 /* ACT generated Fri Nov 15 15:37:24 2019 */
@@ -2198,6 +3202,10 @@ CALL[], 16, 9, 1, 1, 160, 86
 SHC[2], 1
 
 
+    </glyphProgram>
+
+    <glyphProgram name="Wgrave.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="X">
@@ -2217,6 +3225,10 @@ IUP[X]
 
     </glyphProgram>
 
+    <glyphProgram name="X.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Xi">
 /* TT glyph 547, char 0x39e */
 /* VTT 6.33 compiler Tue Dec  3 11:02:26 2019 */
@@ -2232,6 +3244,10 @@ CALL[], 5, 4, 106
 IUP[Y]
 IUP[X]
 
+    </glyphProgram>
+
+    <glyphProgram name="Xi.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Y">
@@ -2250,6 +3266,10 @@ IUP[X]
 
     </glyphProgram>
 
+    <glyphProgram name="Y.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Yacute">
 /* VTTTalk Unicode 0xdd */
 /* ACT generated Fri Nov 15 15:37:24 2019 */
@@ -2264,6 +3284,10 @@ SHC[2], 1
 
     </glyphProgram>
 
+    <glyphProgram name="Yacute.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Ycircumflex">
 /* VTTTalk Unicode 0x176 */
 /* ACT generated Fri Nov 15 15:37:24 2019 */
@@ -2275,6 +3299,10 @@ SVTCA[Y]
 CALL[], 14, 6, 1, 1, 160, 86
 SHC[2], 1
 
+    </glyphProgram>
+
+    <glyphProgram name="Ycircumflex.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Ydieresis">
@@ -2291,6 +3319,18 @@ SHC[2], 2
 
     </glyphProgram>
 
+    <glyphProgram name="Ydieresis.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Ydotbelow.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Yerucy.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Ygrave">
 /* VTTTalk Unicode 0x1ef2 */
 /* ACT generated Fri Nov 15 15:37:24 2019 */
@@ -2303,6 +3343,26 @@ CALL[], 10, 6, 1, 1, 160, 86
 SHC[2], 1
 
 
+    </glyphProgram>
+
+    <glyphProgram name="Ygrave.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Yhookabove.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Yicy.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Ymacron.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Ytilde.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Z">
@@ -2318,6 +3378,10 @@ SHP[2], 6
 IUP[Y]
 IUP[X]
 
+    </glyphProgram>
+
+    <glyphProgram name="Z.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Zacute">
@@ -2347,6 +3411,14 @@ SHC[2], 1
 
     </glyphProgram>
 
+    <glyphProgram name="Zacute.loclPLK.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Zacute.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Zcaron">
 /* VTTTalk Unicode 0x17d */
 /* ACT generated Fri Nov 15 15:37:24 2019 */
@@ -2358,6 +3430,10 @@ SVTCA[Y]
 CALL[], 10, 4, 1, 1, 160, 86
 SHC[2], 1
 
+    </glyphProgram>
+
+    <glyphProgram name="Zcaron.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="Zdotaccent">
@@ -2373,6 +3449,14 @@ SHC[2], 1
 
     </glyphProgram>
 
+    <glyphProgram name="Zdotaccent.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Zecy.sc">
+/* no-op */
+    </glyphProgram>
+
     <glyphProgram name="Zeta">
 /* VTTTalk Unicode 0x396 */
 /* ACT generated Fri Nov 15 15:37:24 2019 */
@@ -2380,6 +3464,14 @@ SHC[2], 1
 USEMYMETRICS[]
 OFFSET[R], 177, 0, 0
 
+    </glyphProgram>
+
+    <glyphProgram name="Zeta.sc">
+/* no-op */
+    </glyphProgram>
+
+    <glyphProgram name="Zhecy.sc">
+/* no-op */
     </glyphProgram>
 
     <glyphProgram name="a">
@@ -37002,168 +38094,440 @@ Smooth()
   <TSI5>
     <glyphgroup name=".notdef" value="1"/>
     <glyphgroup name="A" value="2"/>
+    <glyphgroup name="A.sc" value="0"/>
     <glyphgroup name="AE" value="2"/>
+    <glyphgroup name="AE.sc" value="0"/>
     <glyphgroup name="AEacute" value="2"/>
+    <glyphgroup name="AEacute.sc" value="0"/>
     <glyphgroup name="Aacute" value="2"/>
+    <glyphgroup name="Aacute.sc" value="0"/>
     <glyphgroup name="Abreve" value="2"/>
+    <glyphgroup name="Abreve.sc" value="0"/>
+    <glyphgroup name="Abreveacute.sc" value="0"/>
+    <glyphgroup name="Abrevedotbelow.sc" value="0"/>
+    <glyphgroup name="Abrevegrave.sc" value="0"/>
+    <glyphgroup name="Abrevehookabove.sc" value="0"/>
+    <glyphgroup name="Abrevetilde.sc" value="0"/>
     <glyphgroup name="Acircumflex" value="2"/>
+    <glyphgroup name="Acircumflex.sc" value="0"/>
+    <glyphgroup name="Acircumflexacute.sc" value="0"/>
+    <glyphgroup name="Acircumflexdotbelow.sc" value="0"/>
+    <glyphgroup name="Acircumflexgrave.sc" value="0"/>
+    <glyphgroup name="Acircumflexhookabove.sc" value="0"/>
+    <glyphgroup name="Acircumflextilde.sc" value="0"/>
+    <glyphgroup name="Acy.sc" value="0"/>
     <glyphgroup name="Adieresis" value="2"/>
+    <glyphgroup name="Adieresis.sc" value="0"/>
+    <glyphgroup name="Adotbelow.sc" value="0"/>
     <glyphgroup name="Agrave" value="2"/>
+    <glyphgroup name="Agrave.sc" value="0"/>
+    <glyphgroup name="Ahookabove.sc" value="0"/>
     <glyphgroup name="Alpha" value="2"/>
+    <glyphgroup name="Alpha.sc" value="0"/>
     <glyphgroup name="Alphatonos" value="2"/>
+    <glyphgroup name="Alphatonos.sc" value="0"/>
     <glyphgroup name="Amacron" value="2"/>
+    <glyphgroup name="Amacron.sc" value="0"/>
     <glyphgroup name="Aogonek" value="2"/>
+    <glyphgroup name="Aogonek.sc" value="0"/>
     <glyphgroup name="Aring" value="2"/>
+    <glyphgroup name="Aring.sc" value="0"/>
     <glyphgroup name="Aringacute" value="2"/>
+    <glyphgroup name="Aringacute.sc" value="0"/>
     <glyphgroup name="Atilde" value="2"/>
+    <glyphgroup name="Atilde.sc" value="0"/>
     <glyphgroup name="B" value="2"/>
+    <glyphgroup name="B.sc" value="0"/>
+    <glyphgroup name="Becy.sc" value="0"/>
     <glyphgroup name="Beta" value="2"/>
+    <glyphgroup name="Beta.sc" value="0"/>
     <glyphgroup name="C" value="2"/>
+    <glyphgroup name="C.sc" value="0"/>
     <glyphgroup name="CR" value="0"/>
     <glyphgroup name="Cacute" value="2"/>
     <glyphgroup name="Cacute.loclPLK" value="1"/>
+    <glyphgroup name="Cacute.loclPLK.sc" value="0"/>
+    <glyphgroup name="Cacute.sc" value="0"/>
     <glyphgroup name="Ccaron" value="2"/>
+    <glyphgroup name="Ccaron.sc" value="0"/>
     <glyphgroup name="Ccedilla" value="2"/>
+    <glyphgroup name="Ccedilla.sc" value="0"/>
     <glyphgroup name="Ccircumflex" value="2"/>
+    <glyphgroup name="Ccircumflex.sc" value="0"/>
     <glyphgroup name="Cdotaccent" value="2"/>
+    <glyphgroup name="Cdotaccent.sc" value="0"/>
+    <glyphgroup name="Checy.sc" value="0"/>
     <glyphgroup name="Chi" value="2"/>
+    <glyphgroup name="Chi.sc" value="0"/>
     <glyphgroup name="D" value="2"/>
+    <glyphgroup name="D.sc" value="0"/>
     <glyphgroup name="Dcaron" value="2"/>
+    <glyphgroup name="Dcaron.sc" value="0"/>
     <glyphgroup name="Dcroat" value="2"/>
+    <glyphgroup name="Dcroat.sc" value="0"/>
+    <glyphgroup name="Decy.loclBGR.sc" value="0"/>
+    <glyphgroup name="Decy.sc" value="0"/>
+    <glyphgroup name="Delta.sc" value="0"/>
+    <glyphgroup name="Djecy.sc" value="0"/>
+    <glyphgroup name="Dzecy.sc" value="0"/>
+    <glyphgroup name="Dzhecy.sc" value="0"/>
     <glyphgroup name="E" value="2"/>
+    <glyphgroup name="E.sc" value="0"/>
     <glyphgroup name="Eacute" value="2"/>
+    <glyphgroup name="Eacute.sc" value="0"/>
     <glyphgroup name="Ebreve" value="2"/>
+    <glyphgroup name="Ebreve.sc" value="0"/>
     <glyphgroup name="Ecaron" value="2"/>
+    <glyphgroup name="Ecaron.sc" value="0"/>
     <glyphgroup name="Ecircumflex" value="2"/>
+    <glyphgroup name="Ecircumflex.sc" value="0"/>
+    <glyphgroup name="Ecircumflexacute.sc" value="0"/>
+    <glyphgroup name="Ecircumflexdotbelow.sc" value="0"/>
+    <glyphgroup name="Ecircumflexgrave.sc" value="0"/>
+    <glyphgroup name="Ecircumflexhookabove.sc" value="0"/>
+    <glyphgroup name="Ecircumflextilde.sc" value="0"/>
+    <glyphgroup name="Ecy.sc" value="0"/>
     <glyphgroup name="Edieresis" value="2"/>
+    <glyphgroup name="Edieresis.sc" value="0"/>
     <glyphgroup name="Edotaccent" value="2"/>
+    <glyphgroup name="Edotaccent.sc" value="0"/>
+    <glyphgroup name="Edotbelow.sc" value="0"/>
+    <glyphgroup name="Efcy.loclBGR.sc" value="0"/>
+    <glyphgroup name="Efcy.sc" value="0"/>
     <glyphgroup name="Egrave" value="2"/>
+    <glyphgroup name="Egrave.sc" value="0"/>
+    <glyphgroup name="Ehookabove.sc" value="0"/>
+    <glyphgroup name="Elcy.loclBGR.sc" value="0"/>
+    <glyphgroup name="Elcy.sc" value="0"/>
     <glyphgroup name="Emacron" value="2"/>
+    <glyphgroup name="Emacron.sc" value="0"/>
+    <glyphgroup name="Emcy.sc" value="0"/>
+    <glyphgroup name="Ency.sc" value="0"/>
     <glyphgroup name="Eng" value="2"/>
+    <glyphgroup name="Eng.sc" value="0"/>
     <glyphgroup name="Eogonek" value="2"/>
+    <glyphgroup name="Eogonek.sc" value="0"/>
     <glyphgroup name="Epsilon" value="2"/>
+    <glyphgroup name="Epsilon.sc" value="0"/>
     <glyphgroup name="Epsilontonos" value="2"/>
+    <glyphgroup name="Epsilontonos.sc" value="0"/>
+    <glyphgroup name="Ercy.sc" value="0"/>
+    <glyphgroup name="Ereversedcy.sc" value="0"/>
+    <glyphgroup name="Escy.sc" value="0"/>
     <glyphgroup name="Eta" value="2"/>
+    <glyphgroup name="Eta.sc" value="0"/>
     <glyphgroup name="Etatonos" value="2"/>
+    <glyphgroup name="Etatonos.sc" value="0"/>
     <glyphgroup name="Eth" value="2"/>
+    <glyphgroup name="Eth.sc" value="0"/>
+    <glyphgroup name="Etilde.sc" value="0"/>
     <glyphgroup name="Euro" value="4"/>
     <glyphgroup name="F" value="2"/>
+    <glyphgroup name="F.sc" value="0"/>
     <glyphgroup name="G" value="2"/>
+    <glyphgroup name="G.sc" value="0"/>
     <glyphgroup name="Gamma" value="2"/>
+    <glyphgroup name="Gamma.sc" value="0"/>
     <glyphgroup name="Gbreve" value="2"/>
+    <glyphgroup name="Gbreve.sc" value="0"/>
     <glyphgroup name="Gcaron" value="2"/>
+    <glyphgroup name="Gcaron.sc" value="0"/>
     <glyphgroup name="Gcircumflex" value="2"/>
+    <glyphgroup name="Gcircumflex.sc" value="0"/>
+    <glyphgroup name="Gcommaaccent.sc" value="0"/>
     <glyphgroup name="Gdotaccent" value="2"/>
+    <glyphgroup name="Gdotaccent.sc" value="0"/>
+    <glyphgroup name="Gecy.sc" value="0"/>
+    <glyphgroup name="Germandbls.sc" value="0"/>
+    <glyphgroup name="Gheupturncy.sc" value="0"/>
+    <glyphgroup name="Gjecy.sc" value="0"/>
     <glyphgroup name="H" value="2"/>
+    <glyphgroup name="H.sc" value="0"/>
+    <glyphgroup name="Hacy.sc" value="0"/>
+    <glyphgroup name="Hardsigncy.sc" value="0"/>
     <glyphgroup name="Hbar" value="2"/>
+    <glyphgroup name="Hbar.sc" value="0"/>
     <glyphgroup name="Hcircumflex" value="2"/>
+    <glyphgroup name="Hcircumflex.sc" value="0"/>
     <glyphgroup name="I" value="2"/>
+    <glyphgroup name="I.sc" value="0"/>
     <glyphgroup name="IJ" value="2"/>
+    <glyphgroup name="IJ.sc" value="0"/>
     <glyphgroup name="Iacute" value="2"/>
+    <glyphgroup name="Iacute.sc" value="0"/>
     <glyphgroup name="Iacute_J.loclNLD" value="1"/>
+    <glyphgroup name="Iacute_J.loclNLD.sc" value="0"/>
+    <glyphgroup name="Iacy.sc" value="0"/>
     <glyphgroup name="Ibreve" value="2"/>
+    <glyphgroup name="Ibreve.sc" value="0"/>
     <glyphgroup name="Icircumflex" value="2"/>
+    <glyphgroup name="Icircumflex.sc" value="0"/>
+    <glyphgroup name="Icy.sc" value="0"/>
     <glyphgroup name="Idieresis" value="2"/>
+    <glyphgroup name="Idieresis.sc" value="0"/>
     <glyphgroup name="Idotaccent" value="2"/>
+    <glyphgroup name="Idotaccent.sc" value="0"/>
+    <glyphgroup name="Idotbelow.sc" value="0"/>
+    <glyphgroup name="Iecy.sc" value="0"/>
+    <glyphgroup name="Iegravecy.sc" value="0"/>
     <glyphgroup name="Igrave" value="2"/>
+    <glyphgroup name="Igrave.sc" value="0"/>
+    <glyphgroup name="Ihookabove.sc" value="0"/>
+    <glyphgroup name="Iicy.sc" value="0"/>
+    <glyphgroup name="Iigravecy.sc" value="0"/>
+    <glyphgroup name="Iishortcy.sc" value="0"/>
     <glyphgroup name="Imacron" value="2"/>
+    <glyphgroup name="Imacron.sc" value="0"/>
+    <glyphgroup name="Iocy.sc" value="0"/>
     <glyphgroup name="Iogonek" value="2"/>
+    <glyphgroup name="Iogonek.sc" value="0"/>
     <glyphgroup name="Iota" value="2"/>
+    <glyphgroup name="Iota.sc" value="0"/>
     <glyphgroup name="Iotadieresis" value="2"/>
+    <glyphgroup name="Iotadieresis.sc" value="0"/>
     <glyphgroup name="Iotatonos" value="2"/>
+    <glyphgroup name="Iotatonos.sc" value="0"/>
     <glyphgroup name="Itilde" value="2"/>
+    <glyphgroup name="Itilde.sc" value="0"/>
+    <glyphgroup name="Iucy.sc" value="0"/>
     <glyphgroup name="J" value="2"/>
+    <glyphgroup name="J.sc" value="0"/>
     <glyphgroup name="Jcircumflex" value="2"/>
+    <glyphgroup name="Jcircumflex.sc" value="0"/>
+    <glyphgroup name="Jecy.sc" value="0"/>
     <glyphgroup name="K" value="2"/>
+    <glyphgroup name="K.sc" value="0"/>
+    <glyphgroup name="Kacy.sc" value="0"/>
+    <glyphgroup name="KaiSymbol.sc" value="0"/>
     <glyphgroup name="Kappa" value="2"/>
+    <glyphgroup name="Kappa.sc" value="0"/>
+    <glyphgroup name="Kcommaaccent.sc" value="0"/>
+    <glyphgroup name="Kjecy.sc" value="0"/>
     <glyphgroup name="L" value="2"/>
+    <glyphgroup name="L.sc" value="0"/>
     <glyphgroup name="LIG" value="1"/>
     <glyphgroup name="Lacute" value="2"/>
+    <glyphgroup name="Lacute.sc" value="0"/>
     <glyphgroup name="Lambda" value="2"/>
+    <glyphgroup name="Lambda.sc" value="0"/>
     <glyphgroup name="Lcaron" value="2"/>
+    <glyphgroup name="Lcaron.sc" value="0"/>
+    <glyphgroup name="Lcommaaccent.sc" value="0"/>
     <glyphgroup name="Ldot" value="2"/>
+    <glyphgroup name="Ldot.sc" value="0"/>
+    <glyphgroup name="Ljecy.sc" value="0"/>
     <glyphgroup name="Lslash" value="2"/>
+    <glyphgroup name="Lslash.sc" value="0"/>
     <glyphgroup name="M" value="2"/>
+    <glyphgroup name="M.sc" value="0"/>
     <glyphgroup name="Mu" value="2"/>
+    <glyphgroup name="Mu.sc" value="0"/>
     <glyphgroup name="N" value="2"/>
+    <glyphgroup name="N.sc" value="0"/>
     <glyphgroup name="Nacute" value="2"/>
     <glyphgroup name="Nacute.loclPLK" value="1"/>
+    <glyphgroup name="Nacute.loclPLK.sc" value="0"/>
+    <glyphgroup name="Nacute.sc" value="0"/>
     <glyphgroup name="Ncaron" value="2"/>
+    <glyphgroup name="Ncaron.sc" value="0"/>
+    <glyphgroup name="Ncommaaccent.sc" value="0"/>
+    <glyphgroup name="Nhookleft.sc" value="0"/>
+    <glyphgroup name="Njecy.sc" value="0"/>
     <glyphgroup name="Ntilde" value="2"/>
+    <glyphgroup name="Ntilde.sc" value="0"/>
     <glyphgroup name="Nu" value="2"/>
+    <glyphgroup name="Nu.sc" value="0"/>
     <glyphgroup name="O" value="2"/>
+    <glyphgroup name="O.sc" value="0"/>
     <glyphgroup name="OE" value="2"/>
+    <glyphgroup name="OE.sc" value="0"/>
     <glyphgroup name="Oacute" value="2"/>
     <glyphgroup name="Oacute.loclPLK" value="1"/>
+    <glyphgroup name="Oacute.loclPLK.sc" value="0"/>
+    <glyphgroup name="Oacute.sc" value="0"/>
     <glyphgroup name="Obreve" value="2"/>
+    <glyphgroup name="Obreve.sc" value="0"/>
     <glyphgroup name="Ocircumflex" value="2"/>
+    <glyphgroup name="Ocircumflex.sc" value="0"/>
+    <glyphgroup name="Ocircumflexacute.sc" value="0"/>
+    <glyphgroup name="Ocircumflexdotbelow.sc" value="0"/>
+    <glyphgroup name="Ocircumflexgrave.sc" value="0"/>
+    <glyphgroup name="Ocircumflexhookabove.sc" value="0"/>
+    <glyphgroup name="Ocircumflextilde.sc" value="0"/>
+    <glyphgroup name="Ocy.sc" value="0"/>
     <glyphgroup name="Odieresis" value="2"/>
+    <glyphgroup name="Odieresis.sc" value="0"/>
+    <glyphgroup name="Odotbelow.sc" value="0"/>
     <glyphgroup name="Ograve" value="2"/>
+    <glyphgroup name="Ograve.sc" value="0"/>
+    <glyphgroup name="Ohookabove.sc" value="0"/>
     <glyphgroup name="Ohorn" value="2"/>
+    <glyphgroup name="Ohorn.sc" value="0"/>
+    <glyphgroup name="Ohornacute.sc" value="0"/>
+    <glyphgroup name="Ohorndotbelow.sc" value="0"/>
+    <glyphgroup name="Ohorngrave.sc" value="0"/>
+    <glyphgroup name="Ohornhookabove.sc" value="0"/>
+    <glyphgroup name="Ohorntilde.sc" value="0"/>
     <glyphgroup name="Ohungarumlaut" value="2"/>
+    <glyphgroup name="Ohungarumlaut.sc" value="0"/>
     <glyphgroup name="Omacron" value="2"/>
+    <glyphgroup name="Omacron.sc" value="0"/>
+    <glyphgroup name="Omega.sc" value="0"/>
     <glyphgroup name="Omegatonos" value="0"/>
+    <glyphgroup name="Omegatonos.sc" value="0"/>
     <glyphgroup name="Omicron" value="2"/>
+    <glyphgroup name="Omicron.sc" value="0"/>
     <glyphgroup name="Omicrontonos" value="2"/>
+    <glyphgroup name="Omicrontonos.sc" value="0"/>
+    <glyphgroup name="Oogonek.sc" value="0"/>
     <glyphgroup name="Oslash" value="2"/>
+    <glyphgroup name="Oslash.sc" value="0"/>
     <glyphgroup name="Oslashacute" value="2"/>
+    <glyphgroup name="Oslashacute.sc" value="0"/>
     <glyphgroup name="Otilde" value="2"/>
+    <glyphgroup name="Otilde.sc" value="0"/>
     <glyphgroup name="P" value="2"/>
+    <glyphgroup name="P.sc" value="0"/>
+    <glyphgroup name="Pecy.sc" value="0"/>
     <glyphgroup name="Phi" value="2"/>
+    <glyphgroup name="Phi.sc" value="0"/>
     <glyphgroup name="Pi" value="2"/>
+    <glyphgroup name="Pi.sc" value="0"/>
     <glyphgroup name="Psi" value="2"/>
+    <glyphgroup name="Psi.sc" value="0"/>
     <glyphgroup name="Q" value="2"/>
+    <glyphgroup name="Q.sc" value="0"/>
     <glyphgroup name="R" value="2"/>
+    <glyphgroup name="R.sc" value="0"/>
     <glyphgroup name="Racute" value="2"/>
+    <glyphgroup name="Racute.sc" value="0"/>
     <glyphgroup name="Rcaron" value="2"/>
+    <glyphgroup name="Rcaron.sc" value="0"/>
+    <glyphgroup name="Rcommaaccent.sc" value="0"/>
     <glyphgroup name="Rho" value="2"/>
+    <glyphgroup name="Rho.sc" value="0"/>
     <glyphgroup name="S" value="2"/>
+    <glyphgroup name="S.sc" value="0"/>
     <glyphgroup name="Sacute" value="2"/>
     <glyphgroup name="Sacute.loclPLK" value="1"/>
+    <glyphgroup name="Sacute.loclPLK.sc" value="0"/>
+    <glyphgroup name="Sacute.sc" value="0"/>
     <glyphgroup name="Scaron" value="2"/>
+    <glyphgroup name="Scaron.sc" value="0"/>
     <glyphgroup name="Scedilla" value="2"/>
+    <glyphgroup name="Scedilla.sc" value="0"/>
+    <glyphgroup name="Schwa.sc" value="0"/>
     <glyphgroup name="Scircumflex" value="2"/>
+    <glyphgroup name="Scircumflex.sc" value="0"/>
+    <glyphgroup name="Scommaaccent.sc" value="0"/>
+    <glyphgroup name="Shacy.sc" value="0"/>
+    <glyphgroup name="Shchacy.sc" value="0"/>
     <glyphgroup name="Sigma" value="2"/>
+    <glyphgroup name="Sigma.sc" value="0"/>
+    <glyphgroup name="Softsigncy.sc" value="0"/>
     <glyphgroup name="T" value="2"/>
+    <glyphgroup name="T.sc" value="0"/>
     <glyphgroup name="Tau" value="2"/>
+    <glyphgroup name="Tau.sc" value="0"/>
     <glyphgroup name="Tbar" value="2"/>
+    <glyphgroup name="Tbar.sc" value="0"/>
     <glyphgroup name="Tcaron" value="2"/>
+    <glyphgroup name="Tcaron.sc" value="0"/>
+    <glyphgroup name="Tcedilla.sc" value="0"/>
+    <glyphgroup name="Tcommaaccent.sc" value="0"/>
+    <glyphgroup name="Tecy.sc" value="0"/>
     <glyphgroup name="Theta" value="2"/>
+    <glyphgroup name="Theta.sc" value="0"/>
     <glyphgroup name="Thorn" value="2"/>
+    <glyphgroup name="Thorn.sc" value="0"/>
+    <glyphgroup name="Tsecy.sc" value="0"/>
+    <glyphgroup name="Tshecy.sc" value="0"/>
     <glyphgroup name="U" value="2"/>
+    <glyphgroup name="U.sc" value="0"/>
     <glyphgroup name="Uacute" value="2"/>
+    <glyphgroup name="Uacute.sc" value="0"/>
     <glyphgroup name="Ubreve" value="2"/>
+    <glyphgroup name="Ubreve.sc" value="0"/>
     <glyphgroup name="Ucircumflex" value="2"/>
+    <glyphgroup name="Ucircumflex.sc" value="0"/>
+    <glyphgroup name="Ucy.sc" value="0"/>
     <glyphgroup name="Udieresis" value="2"/>
+    <glyphgroup name="Udieresis.sc" value="0"/>
+    <glyphgroup name="Udotbelow.sc" value="0"/>
     <glyphgroup name="Ugrave" value="2"/>
+    <glyphgroup name="Ugrave.sc" value="0"/>
+    <glyphgroup name="Uhookabove.sc" value="0"/>
     <glyphgroup name="Uhorn" value="2"/>
+    <glyphgroup name="Uhorn.sc" value="0"/>
+    <glyphgroup name="Uhornacute.sc" value="0"/>
+    <glyphgroup name="Uhorndotbelow.sc" value="0"/>
+    <glyphgroup name="Uhorngrave.sc" value="0"/>
+    <glyphgroup name="Uhornhookabove.sc" value="0"/>
+    <glyphgroup name="Uhorntilde.sc" value="0"/>
     <glyphgroup name="Uhungarumlaut" value="2"/>
+    <glyphgroup name="Uhungarumlaut.sc" value="0"/>
     <glyphgroup name="Umacron" value="2"/>
+    <glyphgroup name="Umacron.sc" value="0"/>
     <glyphgroup name="Uogonek" value="2"/>
+    <glyphgroup name="Uogonek.sc" value="0"/>
     <glyphgroup name="Upsilon" value="2"/>
+    <glyphgroup name="Upsilon.sc" value="0"/>
     <glyphgroup name="Upsilondieresis" value="2"/>
+    <glyphgroup name="Upsilondieresis.sc" value="0"/>
     <glyphgroup name="Upsilontonos" value="0"/>
+    <glyphgroup name="Upsilontonos.sc" value="0"/>
     <glyphgroup name="Uring" value="2"/>
+    <glyphgroup name="Uring.sc" value="0"/>
+    <glyphgroup name="Ushortcy.sc" value="0"/>
     <glyphgroup name="Utilde" value="2"/>
+    <glyphgroup name="Utilde.sc" value="0"/>
     <glyphgroup name="V" value="2"/>
+    <glyphgroup name="V.sc" value="0"/>
+    <glyphgroup name="Vecy.sc" value="0"/>
     <glyphgroup name="W" value="2"/>
+    <glyphgroup name="W.sc" value="0"/>
     <glyphgroup name="Wacute" value="2"/>
+    <glyphgroup name="Wacute.sc" value="0"/>
     <glyphgroup name="Wcircumflex" value="2"/>
+    <glyphgroup name="Wcircumflex.sc" value="0"/>
     <glyphgroup name="Wdieresis" value="2"/>
+    <glyphgroup name="Wdieresis.sc" value="0"/>
     <glyphgroup name="Wgrave" value="2"/>
+    <glyphgroup name="Wgrave.sc" value="0"/>
     <glyphgroup name="X" value="2"/>
+    <glyphgroup name="X.sc" value="0"/>
     <glyphgroup name="Xi" value="2"/>
+    <glyphgroup name="Xi.sc" value="0"/>
     <glyphgroup name="Y" value="2"/>
+    <glyphgroup name="Y.sc" value="0"/>
     <glyphgroup name="Yacute" value="2"/>
+    <glyphgroup name="Yacute.sc" value="0"/>
     <glyphgroup name="Ycircumflex" value="2"/>
+    <glyphgroup name="Ycircumflex.sc" value="0"/>
     <glyphgroup name="Ydieresis" value="2"/>
+    <glyphgroup name="Ydieresis.sc" value="0"/>
+    <glyphgroup name="Ydotbelow.sc" value="0"/>
+    <glyphgroup name="Yerucy.sc" value="0"/>
     <glyphgroup name="Ygrave" value="2"/>
+    <glyphgroup name="Ygrave.sc" value="0"/>
+    <glyphgroup name="Yhookabove.sc" value="0"/>
+    <glyphgroup name="Yicy.sc" value="0"/>
+    <glyphgroup name="Ymacron.sc" value="0"/>
+    <glyphgroup name="Ytilde.sc" value="0"/>
     <glyphgroup name="Z" value="2"/>
+    <glyphgroup name="Z.sc" value="0"/>
     <glyphgroup name="Zacute" value="2"/>
     <glyphgroup name="Zacute.loclPLK" value="1"/>
+    <glyphgroup name="Zacute.loclPLK.sc" value="0"/>
+    <glyphgroup name="Zacute.sc" value="0"/>
     <glyphgroup name="Zcaron" value="2"/>
+    <glyphgroup name="Zcaron.sc" value="0"/>
     <glyphgroup name="Zdotaccent" value="2"/>
+    <glyphgroup name="Zdotaccent.sc" value="0"/>
+    <glyphgroup name="Zecy.sc" value="0"/>
     <glyphgroup name="Zeta" value="2"/>
+    <glyphgroup name="Zeta.sc" value="0"/>
+    <glyphgroup name="Zhecy.sc" value="0"/>
     <glyphgroup name="a" value="3"/>
     <glyphgroup name="aacute" value="3"/>
     <glyphgroup name="abreve" value="3"/>
@@ -38564,7 +39928,7 @@ Smooth()
   <maxp>
     <!-- Most of this table will be recalculated by the compiler -->
     <tableVersion value="0x10000"/>
-    <numGlyphs value="1547"/>
+    <numGlyphs value="1848"/>
     <maxPoints value="148"/>
     <maxContours value="37"/>
     <maxCompositePoints value="83"/>
@@ -38577,7 +39941,7 @@ Smooth()
     <maxStackElements value="717"/>
     <maxSizeOfInstructions value="3971"/>
     <maxComponentElements value="3"/>
-    <maxComponentDepth value="2"/>
+    <maxComponentDepth value="3"/>
   </maxp>
 
 </ttFont>
